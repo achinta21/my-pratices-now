@@ -28,11 +28,11 @@ header{
     text-decoration: none;
     line-height:40px;
     margin: 10px 20px;
-    font-size: 20px;
+    font-size:20px;
     color: white;
     font-weight: 700;
     border-radius:10px;
-    padding:0px 10px;
+    padding: 0 5px;
    
     
 }
@@ -93,7 +93,7 @@ margin-left: 40px;
     float: left;
     width:20%;
     margin: 5px 15px;
-    margin-bottom: 100px;
+    margin-bottom:50px;
     padding: 10px;
     border: 1px solid white;
     border-radius: 15px;
@@ -129,12 +129,13 @@ margin-left: 40px;
 .haif-area{
     width: 100%;
     text-align: center;
-    margin-bottom: 200px;
+    margin-bottom:100px;
     
 }
 .haif-area img{
     width:50%;
-    float: left;    
+    float: left;   
+   
 }
 .haif-area h2{
     display: inline-flex;
@@ -146,7 +147,7 @@ margin-left: 40px;
 .haif-area p{
     margin-bottom: 50px;
     text-align: justify;
-    margin-left:700px;
+    margin-left:800px;
 }
 .btns-button{
     text-decoration: none;
@@ -155,5 +156,42 @@ margin-left: 40px;
     border-radius: 15px;
     color: white;
     font-weight: 700;
+    
+}
+
+.owner-item{
+    background-color: rgb(14, 199, 128);
+    width:30%;
+    float: left;
+    box-shadow: 10px 7px 30px gray;
+    padding: 10px 10px;
+    margin: 10px;
+    border: 1px solid white;
+    border-radius: 10px;
+        
+}
+.owner-item img{
+    width:35%;
+  
+}
+section{
+    display: flex;
+}
+.owner-add{
+    margin-bottom:60px;
+    text-align:center;
+    
+}
+#fast-area{
+   font-size: 25px;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+   font-weight: 700;
+
+}
+footer{
+    text-align: center;
+    background-color: rgb(42, 44, 61);
+    padding:50px;
+    color: white;
     
 }
