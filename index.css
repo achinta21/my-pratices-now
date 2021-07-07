@@ -99,7 +99,10 @@ margin-left: 40px;
     border-radius: 15px;
     background-color: steelblue;
     
-    
+}
+.fast-cloum:hover{
+    background-color: rgb(235, 74, 53);
+   
 }
 .cloum-area h1{
     margin-bottom:70px;
